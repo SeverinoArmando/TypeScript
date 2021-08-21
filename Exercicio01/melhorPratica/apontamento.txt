@@ -1,0 +1,7 @@
+Para iniciar nosso projeto em TypeScript usamos o comando tsc --init. vai gerar um arquivo json
+
+Depois usamos o comando ts para criar nosso arquivo criado em TypeScript para JavasCript
+
+
+Depois disso usamos o comando tsc --watch para acompanhar as mudanças em tempo real no nosso arquivo tsc
+criado inicialmente
